@@ -7,3 +7,5 @@ Complete 10 public commits.
 In progress.
 ## Learning
 Understanding GitHub basics.
+## Notes
+Commits are made directly via GitHub UI.
