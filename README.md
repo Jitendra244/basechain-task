@@ -5,3 +5,5 @@ This repository is created to complete Base Chain commit requirements.
 Complete 10 public commits.
 ## Status
 In progress.
+## Learning
+Understanding GitHub basics.
