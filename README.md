@@ -9,3 +9,5 @@ In progress.
 Understanding GitHub basics.
 ## Notes
 Commits are made directly via GitHub UI.
+## Author
+GitHub user.
